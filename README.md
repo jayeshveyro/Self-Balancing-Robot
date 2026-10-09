@@ -11,7 +11,7 @@ This is a Self Balancing Robot. It has a Arduino UNO and a MPU6050 with L298N mo
 | 5 | Mini Breadboard | 33059 | 1 | ₹19.00 | ₹19.00 | [Robu](https://robu.in/product/170-pts-mini-breadboard-syb-170-white/) |
 | 6 | 20-Wire Male-to-Male Jumper Wires | R1R110896 | 1 | ₹29.00 | ₹29.00 | [Robu](https://robu.in/product/bread-board-jumper-wire-20-cm-x-20-male-to-male/) |
 | 7 | Printing Legion | - | 1 | ₹ | ₹.00 | HackClub |
-| | **TOTAL** | | | | **₹.00** | ||
+| | **TOTAL** | | | | **₹1018.00(Not Final** | ||
 
 
 
@@ -20,8 +20,8 @@ This is a Self Balancing Robot. It has a Arduino UNO and a MPU6050 with L298N mo
 ### Cost Breakdown
 
 * **Electronics:** ₹1018
-* **3D Printing:** ₹
-* **Total Project Cost:** **₹**
+* **3D Printing:** ₹-
+* **Total Project Cost:** **₹1018(Not Final**
   
 ## Circuit Design
 
